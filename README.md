@@ -2,8 +2,8 @@
 
 ## To run it open 2 terminals
 
-- Terminal 1: npm i && npm run watch
-- Terminal 2: cd example && npm i && npm run dev
+- Terminal 1: `npm i && npm run watch`
+- Terminal 2: `cd example && npm i && npm run dev`
 
 Scenario:
 
